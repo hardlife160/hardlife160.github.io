@@ -4,7 +4,7 @@ SEOTitle: 问问叶子 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 183994754@qq.com
 description: "Every failure is leading towards success."
-keyword: "UESTC, BY Blog, 问问叶子, iOS, Apple, iPhone"
+keyword: "UESTC, BY Blog, 问问叶子,Rainbow"
 url: "http://hardlife160.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hardlife160/hardlife160.github.io.git" # you code repository
@@ -21,9 +21,9 @@ RSS: false
 weibo_username:     没有恒心的家伙
 zhihu_username:     
 github_username:    hardlife160
-facebook_username:  
+facebook_username:  nature
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+twitter_username:   Rainbow
 
 
 
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "BY",
-        href: "http://zhengwuyang.com"
+        title: "淘宝",
+        href: "https://www.taobao.com/"
     },{
         title: "叶子·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
@@ -108,7 +108,7 @@ friends: [
         title: "Apple",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "电子科技大学信息门户登录",
+        href: "http://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F"
     }
 ]
